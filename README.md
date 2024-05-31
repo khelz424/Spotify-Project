@@ -15,4 +15,9 @@ STEPS FOLLOWED
    3.1. created a new table called Calendar
    3.2. Copied the date column and pasted it in the Calendar table
    3.3. Then I created a calculated column to showcase the dates from the first day of the month to the last day
-   
+
+   Snapshot of Calculated Column:
+  ![Calendar](https://github.com/khelz424/Spotify-Project/assets/141655852/81dac18d-0e7b-4e4d-82f4-727fa0c8e522)
+
+
+
