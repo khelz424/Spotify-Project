@@ -11,10 +11,7 @@ and the Top 5 Albums overall ith their respective artists. I filtered the analys
 STEPS FOLLOWED
 1. Loaded the data into PowerBI
 2. I did not have to do any data cleaning as they were no errors,duplicates,nulls, or empty rows
-3. Created a Calculated column for the date
-3.1. created a new table called Calendar
-3.2. Copied the date column and pasted it in the Calendar table
-3.3. Then I created a calculated column to showcase the dates from the first day of the month to the last day at the moment the dates were not in order
+3. Created a Calculated column for the date. Firslty; I created a new table called Calendar,copied the date column and pasted it in the Calendar table, and then I created a calculated column to showcase the dates from the first day of the month to the last day of the month because the dates were not in order.
    
    Snapshot of Calculated Column:
 
@@ -22,12 +19,7 @@ STEPS FOLLOWED
   ![Calendar](https://github.com/khelz424/Spotify-Project/assets/141655852/81dac18d-0e7b-4e4d-82f4-727fa0c8e522)
 
 
-  4. Merged queries to create a new id column for the track_album_name
-  4.1. Created a table called Albums
-  4.2. Copied the track_album_name column
-  4.3. Clicked on add column and then clicked on index column starting from 1
-  4.4. Clicked on merge query to merge the spotify_songs and Albums table based off the track_album_name column as it is a common column in both tables
-  4.5. In the spotify_songs table I expanded the Albums column and only selected the track_album_name_new_id column to be displayed
+  4. Merged queries to create a new id column for the track_album_name. I firstly created a table called Albums, secondly;copied the track_album_name column, thirdly; clicked on add column and then clicked on index column starting from 1, furthermore; clicked on merge query to merge the spotify_songs and Albums table based off the track_album_name column as it is a common column in both tables, lastly; in the spotify_songs table I expanded the Albums column and only selected the track_album_name_new_id column to be displayed.
 
      Snapshot:
 
@@ -35,5 +27,11 @@ STEPS FOLLOWED
      ![Screenshot (2)](https://github.com/khelz424/Spotify-Project/assets/141655852/57258754-ee5a-41be-bb28-24ef1229b228)
 
 
+VISUAL 1: Total Albums Per Genre
+This visual provides information about the the total albums released in 2018 and 2019 based off the following genres represented in the diagram. 
+I decided to go with a donut which has Total Albums as Values and added the Date column calculated as a legend.
+In order to create Total Albums as a value I created a measure which is the sum of the track_album_name_new_id column that was merged into the spotify_songs table.
+
+Snapshot of Total Albums Measure created:
 
 
