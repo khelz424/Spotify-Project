@@ -29,9 +29,16 @@ STEPS FOLLOWED
 
 VISUAL 1: Total Albums Per Genre
 This visual provides information about the the total albums released in 2018 and 2019 based off the following genres represented in the diagram. 
-I decided to go with a donut which has Total Albums as Values and added the Date column calculated as a legend.
+
+![Screenshot (3)](https://github.com/khelz424/Spotify-Project/assets/141655852/a591b258-07b9-466b-a227-fc6d27ee22c0)
+
+
+
+I decided to go with a donut which has Total Albums as Values and added the Date column calculated as a legend, which I filtered to display the year of 2018 and 2019.
 In order to create Total Albums as a value I created a measure which is the sum of the track_album_name_new_id column that was merged into the spotify_songs table.
 
 Snapshot of Total Albums Measure created:
+![Screenshot (4)](https://github.com/khelz424/Spotify-Project/assets/141655852/7946c674-501a-4215-9e13-44b5b08e37d9)
+
 
 
