@@ -21,20 +21,20 @@ STEPS FOLLOWED
 
 
   4. Merged queries to create a new id column for the track_album_name.
-     I firstly created a table called Albums,
-     secondly;copied the track_album_name column,
-     thirdly; clicked on add column and then clicked on index column starting from 1,
-     furthermore; clicked on merge query to merge the spotify_songs and Albums table based off the track_album_name column as it is a common column in both tables,
-     lastly; in the spotify_songs table I expanded the Albums column and only selected the track_album_name_new_id column to be displayed.
+     I firstly created a table called Albums.Secondly;copied the track_album_name column.Thirdly;clicked on add column and then clicked on index column starting from 1.Furthermore;clicked on merge query to merge the spotify_songs and Albums table based off the track_album_name column as it is a common column in both tables.
+     Lastly;in the spotify_songs table I expanded the Albums column and only selected the track_album_name_new_id column to be displayed.
+
 
      Snapshot:
 
-
      ![Screenshot (2)](https://github.com/khelz424/Spotify-Project/assets/141655852/57258754-ee5a-41be-bb28-24ef1229b228)
 
-<br> 
-VISUAL 1: Total Albums Per Genre</br>
+
+
+
+VISUAL 1: Total Albums Per Genre
 This visual provides information about the the total albums released in 2018 and 2019 based off the following genres represented in the diagram. 
+
 
 ![Screenshot (3)](https://github.com/khelz424/Spotify-Project/assets/141655852/a591b258-07b9-466b-a227-fc6d27ee22c0)
 
@@ -44,14 +44,16 @@ I decided to go with a Donut Chart which has Total Albums under the Values field
 In order to create Total Albums as a value I created a measure which is the sum of the track_album_name_new_id column that was merged into the spotify_songs table(as previously mentioned).
 
 Snapshot of Total Albums Measure created:
+
+
 ![Screenshot (4)](https://github.com/khelz424/Spotify-Project/assets/141655852/7946c674-501a-4215-9e13-44b5b08e37d9)
 
 
 
 Lastly I included a slicer that provides information about the different genres,which will enable a user to view the total albums released for a particular genre they are interested in based off 2018 and 2019.
 
-<br>
-VISUAL 2: Top 5 Played Artists Analysis</br>
+
+VISUAL 2: Top 5 Played Artists Analysis
 This visual provides information about the top 5 artists that were the most played in 2018 and 2019 based off the following genres.
 
 ![Screenshot (7)](https://github.com/khelz424/Spotify-Project/assets/141655852/8a52e04c-be89-4f4c-ab94-97edee7b3d86)
@@ -65,8 +67,8 @@ Snapshot Of Filter:
 ![Screenshot (11)](https://github.com/khelz424/Spotify-Project/assets/141655852/47e11727-3e03-4acc-9af1-186f3c36434e)
 
 This can help users to identify which artists based off the different genres were listened to the most. Hence understanding the users' tastes and which musicians contribute to the streaming success of Spotify.
-<br>
-VISUAL 3: Top 5 Songs Analysis(Overall)</br>
+
+VISUAL 3: Top 5 Songs Analysis(Overall)
 This visual provides information about the top 5 songs listened to based off the top 3 artists regardless of genre.
 
 ![Screenshot (9)](https://github.com/khelz424/Spotify-Project/assets/141655852/cfa81f25-3c95-4858-aa78-7d3436de4795)
@@ -81,8 +83,8 @@ Snapshot Of Filter:
 
 
 This visual can help users who are interested to know information about the specific songs that enabled the top streams overall regardless of genre.
-<br>
-VISUAL 4: Top 5 Albums Analysis(Overall)</br>
+
+VISUAL 4: Top 5 Albums Analysis(Overall)
 This visual provides information about the top 5 albums listened to based off the top 5 artists and their popularity.
 
 ![Screenshot (12)](https://github.com/khelz424/Spotify-Project/assets/141655852/41983a63-1253-47fe-a48c-35ce0d1617de)
