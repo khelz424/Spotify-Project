@@ -48,7 +48,8 @@ Lastly I included a slicer that provides information about the different genres,
 VISUAL 2: Top 5 played artists analysis
 This visual provides information about th top 5 artists that were the most played in 2018 and 2019 based off the following genres.
 
-![Screenshot (5)](https://github.com/khelz424/Spotify-Project/assets/141655852/4e060822-045f-4986-ab58-bcaffb1d5a4a)
+![Screenshot (7)](https://github.com/khelz424/Spotify-Project/assets/141655852/8a52e04c-be89-4f4c-ab94-97edee7b3d86)
+
 
 
 
