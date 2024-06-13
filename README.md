@@ -60,7 +60,7 @@ SNAPSHOT Of Filter:
 
 This can help users to identify which artists based off the different genres were listened to the most. Hence understanding the users' tastes and which musicians contribute to the streaming success of Spotify.
 
-VISUAL 3: Top 5 Songs Analysis 
+VISUAL 3: Top 5 Songs Analysis(Overall)
 This visual provides information about the top 5 songs listened to based off the top 3 artists regardless of genre.
 
 ![Screenshot (9)](https://github.com/khelz424/Spotify-Project/assets/141655852/cfa81f25-3c95-4858-aa78-7d3436de4795)
@@ -75,4 +75,18 @@ SNAPSHOT of Filter:
 
 
 This visual can help users who are interested to know information about the specific songs that enabled the top streams overall regardless of genre.
+
+VISUAL 4: Top 5 Albums Analysis(Overall)
+This visual provides information about the top 5 albums listened to based off the top 5 artists and their popularity.
+
+![Screenshot (12)](https://github.com/khelz424/Spotify-Project/assets/141655852/41983a63-1253-47fe-a48c-35ce0d1617de)
+
+I filtered the visual based off popularity, track_artist, and lastly by the Album. The Album was filtered by the top 5 albums by popularity.
+
+SNAPSHOT Of Filter:
+
+
+![Screenshot (17)](https://github.com/khelz424/Spotify-Project/assets/141655852/78cad3e8-7ae3-44b7-83f2-cbaa28f58014)
+
+
 
