@@ -1,12 +1,21 @@
-1. Spotify Project
+Spotify Project
 
-DASHBOARD LINK: https://nicotechnologiesmw-my.sharepoint.com/:u:/g/personal/nohakhelha_chanje_nicotechnologies_com/EZ_CrI--kxRNuGowhIW828UByvHPn5SGfEDM4IOPXAidMA?e=UrgxLX
 
-STATEMENT
+PROJECT OVERVIEW
 
+
+
+This data analysis project provides insights about the music performance focusing on the top artists,albums,and songs that contributed to the multiple streams that occurred during 2018 and 2019. These insights can be used to make recommendations towards marketing strategies that can be implemented to further on increase the number of streamers on their platform.
 The data was a spotify songs excel workbook file. It included information about different songs, with the artists from each song starting from 1905. 
-I focused on displaying visualisations for 2018 and 2019(which I filtered) about the Total Albums Released, Top 5 Played Artists , Top 5 Songs(Overall), 
-and the Top 5 Albums(Overall) with their respective artists. 
+I focused on displaying visualisations for 2018 and 2019(which I filtered) with the following visuals:
+
+Total Albums Released
+
+Top 5 Played Artists
+
+Top 5 Songs(Overall) 
+
+Top 5 Albums(Overall) with their respective artists. 
 
 STEPS FOLLOWED
 1. Loaded the data into PowerBI
@@ -52,7 +61,7 @@ Snapshot of Total Albums Measure created:
 
 Lastly I included a slicer that provides information about the different genres,which will enable a user to view the total albums released for a particular genre they are interested in based off 2018 and 2019.
 
-
+Overall insights:
 VISUAL 2: Top 5 Played Artists Analysis
 This visual provides information about the top 5 artists that were the most played in 2018 and 2019 based off the following genres.
 
