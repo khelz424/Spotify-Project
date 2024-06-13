@@ -26,8 +26,8 @@ STEPS FOLLOWED
 
      ![Screenshot (2)](https://github.com/khelz424/Spotify-Project/assets/141655852/57258754-ee5a-41be-bb28-24ef1229b228)
 
-
-VISUAL 1: Total Albums Per Genre
+<br> 
+VISUAL 1: Total Albums Per Genre</br>
 This visual provides information about the the total albums released in 2018 and 2019 based off the following genres represented in the diagram. 
 
 ![Screenshot (3)](https://github.com/khelz424/Spotify-Project/assets/141655852/a591b258-07b9-466b-a227-fc6d27ee22c0)
@@ -54,6 +54,8 @@ The visual is displayed as a clustered column chart with the y-axis being the po
 In order to have the top 5 artists displayed on the visual I created a filter for the Artist column which shows the top 5 artists based off the sum of the track popularity. 
 
 SNAPSHOT Of Filter:
+
+
 ![Screenshot (11)](https://github.com/khelz424/Spotify-Project/assets/141655852/47e11727-3e03-4acc-9af1-186f3c36434e)
 
 This can help users to identify which artists based off the different genres were listened to the most. Hence understanding the users' tastes and which musicians contribute to the streaming success of Spotify.
