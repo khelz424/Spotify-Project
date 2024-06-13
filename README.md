@@ -42,3 +42,13 @@ Snapshot of Total Albums Measure created:
 
 
 
+Lastly I included a slicer that provides information about the different genres,which will enable a user to view the total albums released for a particular genre they are interested in based off 2018 and 2019.
+
+
+VISUAL 2: Top 5 played artists analysis
+This visual provides information about th top 5 artists that were the most played in 2018 and 2019 based off the following genres.
+
+![Uploading Screenshot (5).png…]()
+
+
+
