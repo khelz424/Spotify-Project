@@ -19,7 +19,7 @@ Top 5 Albums(Overall) with their respective artists.
 
 STEPS FOLLOWED
 1. Loaded the data into PowerBI
-2. I did not have to do any data cleaning as they were no errors,duplicates,nulls, or empty rows
+2. I did not have to do any data cleaning as they were no errors,formatting issues,duplicates,nulls, or empty rows
 3. Created a Calculated column for the date. Firslty; I created a new table called Calendar,copied the date column and pasted it in the Calendar table, and then I created a calculated column to showcase the dates from the first day of the month to the last day of the month because the dates were not in order.
    
    Snapshot of Calculated Column:
@@ -59,15 +59,15 @@ Snapshot of Total Albums Measure created:
 
 
 
-Lastly I included a slicer that provides information about the different genres,which will enable a user to view the total albums released for a particular genre they are interested in based off 2018 and 2019.
+Lastly I included a slicer that provides information about the different genres,which will enable a user to view the total albums released for a particular genre they are interested in.
 
-Overall insights:
+
 VISUAL 2: Top 5 Played Artists Analysis
-This visual provides information about the top 5 artists that were the most played in 2018 and 2019 based off the following genres.
+This visual provides information about the top 5 artists that were the most played based off the following genres.
 
 ![Screenshot (7)](https://github.com/khelz424/Spotify-Project/assets/141655852/8a52e04c-be89-4f4c-ab94-97edee7b3d86)
 
-The visual is displayed as a clustered column chart with the y-axis being the popularity figurea and the X-axis being the year. 
+The visual is displayed as a clustered column chart with the Y-axis being the popularity figures and the X-axis being the year. 
 In order to have the top 5 artists displayed on the visual I created a filter for the Artist column which shows the top 5 artists based off the sum of the track popularity. 
 
 Snapshot Of Filter:
@@ -91,7 +91,6 @@ Snapshot Of Filter:
 
 
 
-This visual can help users who are interested to know information about the specific songs that enabled the top streams overall regardless of genre.
 
 VISUAL 4: Top 5 Albums Analysis(Overall)
 This visual provides information about the top 5 albums listened to based off the top 5 artists and their popularity.
