@@ -45,12 +45,32 @@ Snapshot of Total Albums Measure created:
 Lastly I included a slicer that provides information about the different genres,which will enable a user to view the total albums released for a particular genre they are interested in based off 2018 and 2019.
 
 
-VISUAL 2: Top 5 played artists analysis
-This visual provides information about th top 5 artists that were the most played in 2018 and 2019 based off the following genres.
+VISUAL 2: Top 5 Played Artists Analysis
+This visual provides information about the top 5 artists that were the most played in 2018 and 2019 based off the following genres.
 
 ![Screenshot (7)](https://github.com/khelz424/Spotify-Project/assets/141655852/8a52e04c-be89-4f4c-ab94-97edee7b3d86)
 
+The visual is displayed as a clustered column chart with the y-axis being the popularity figurea and the X-axis being the year. 
+In order to have the top 5 artists displayed on the visual I created a filter for the Artist column which shows the top 5 artists based off the sum of the track popularity. 
+
+SNAPSHOT Of Filter:
+![Screenshot (11)](https://github.com/khelz424/Spotify-Project/assets/141655852/47e11727-3e03-4acc-9af1-186f3c36434e)
+
+This can help users to identify which artists based off the different genres were listened to the most. Hence understanding the users' tastes and which musicians contribute to the streaming success of Spotify.
+
+VISUAL 3: Top 5 Songs Analysis 
+This visual provides information about the top 5 songs listened to based off the top 3 artists regardless of genre.
+
+![Screenshot (9)](https://github.com/khelz424/Spotify-Project/assets/141655852/cfa81f25-3c95-4858-aa78-7d3436de4795)
+
+The visuals are represented using a multi-row card as it will display the name of the artist and their top 5 songs.
+I filtered each card by the Artist and the Track name by the top 5 songs based off the sum of the track popularity 
+
+SNAPSHOT of Filter:
+
+![Screenshot (10)](https://github.com/khelz424/Spotify-Project/assets/141655852/eac9ec27-9513-4ed7-9bed-47f0baf24d89)
 
 
 
+This visual can help users who are interested to know information about the specific songs that enabled the top streams overall regardless of genre.
 
