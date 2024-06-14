@@ -42,6 +42,9 @@ STEPS FOLLOWED
 
 
 VISUAL 1: Total Albums Per Genre
+
+
+
 This visual provides information about the the total albums released in 2018 and 2019 based off the following genres represented in the diagram. 
 
 
@@ -63,6 +66,9 @@ Lastly I included a slicer that provides information about the different genres,
 
 
 VISUAL 2: Top 5 Played Artists Analysis
+
+
+
 This visual provides information about the top 5 artists that were the most played based off the following genres.
 
 ![Screenshot (7)](https://github.com/khelz424/Spotify-Project/assets/141655852/8a52e04c-be89-4f4c-ab94-97edee7b3d86)
@@ -78,6 +84,9 @@ Snapshot Of Filter:
 This can help users to identify which artists based off the different genres were listened to the most. Hence understanding the users' tastes and which musicians contribute to the streaming success of Spotify.
 
 VISUAL 3: Top 5 Songs Analysis(Overall)
+
+
+
 This visual provides information about the top 5 songs listened to based off the top 3 artists regardless of genre.
 
 ![Screenshot (9)](https://github.com/khelz424/Spotify-Project/assets/141655852/cfa81f25-3c95-4858-aa78-7d3436de4795)
@@ -93,6 +102,9 @@ Snapshot Of Filter:
 
 
 VISUAL 4: Top 5 Albums Analysis(Overall)
+
+
+
 This visual provides information about the top 5 albums listened to based off the top 5 artists and their popularity.
 
 ![Screenshot (12)](https://github.com/khelz424/Spotify-Project/assets/141655852/41983a63-1253-47fe-a48c-35ce0d1617de)
