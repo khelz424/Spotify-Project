@@ -27,13 +27,27 @@ STEPS FOLLOWED
    
   ![Calendar](https://github.com/khelz424/Spotify-Project/assets/141655852/81dac18d-0e7b-4e4d-82f4-727fa0c8e522)
 
+4. Merged queries to create a new id column for the track_album_name:
 
-  4. Merged queries to create a new id column for the track_album_name.
-     I firstly created a table called Albums.Secondly;copied the track_album_name column.Thirdly;clicked on add 
-     column and then clicked on index column starting from 1.Furthermore;clicked on merge query to merge the 
-     spotify_songs and Albums table based off the track_album_name column as it is a common column in both tables.
-     Lastly;in the spotify_songs table I expanded the Albums column and only selected the track_album_name_new_id 
-     column to be displayed.
+
+  STEPS FOLLOWED
+
+  
+   4.1. Firstly created a table called Albums.
+
+
+   4.2. Copied the track_album_name column.
+
+
+   4.3. Clicked on add column and then clicked on index column starting from 1.
+  
+  
+   4.4. Clicked on merge query to merge the spotify_songs and Albums table based off the track_album_name column as 
+       it is a common column in both tables.
+
+
+   4.5. In the spotify_songs table I expanded the Albums column and only selected the track_album_name_new_id 
+       column to be displayed.
 
 
      Snapshot:
