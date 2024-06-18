@@ -17,8 +17,8 @@ Top 5 Songs(Overall)
 Top 5 Albums(Overall) with their respective artists. 
 
 STEPS FOLLOWED
-1. Loaded the data into PowerBI
-2. I did not have to do any data cleaning as they were no errors,formatting issues,duplicates,nulls, or empty rows
+1. Loaded the data into PowerBI.
+2. I did not have to do any data cleaning as they were no errors,formatting issues,duplicates,nulls, or empty rows.
 3. Created a Calculated column for the date. Firslty; I created a new table called Calendar,copied the date column and pasted it in the Calendar table, and then I created a calculated column to showcase the dates from the first day of the month to the last day of the month because the dates were not in order.
    
    Snapshot of Calculated Column:
@@ -96,7 +96,7 @@ This visual provides information about the top 5 songs listened to based off the
 ![Screenshot (9)](https://github.com/khelz424/Spotify-Project/assets/141655852/cfa81f25-3c95-4858-aa78-7d3436de4795)
 
 The visuals are represented using a multi-row card as it will display the name of the artist and their top 5 songs.
-I filtered each card by the Artist and the Track name by the top 5 songs based off the sum of the track popularity 
+I filtered each card by the Artist and the Track name by the top 5 songs based off the sum of the track popularity. 
 
 Snapshot Of Filter:
 
