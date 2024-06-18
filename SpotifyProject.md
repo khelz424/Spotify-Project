@@ -4,7 +4,6 @@ Spotify Project
 PROJECT OVERVIEW
 
 
-
 This data analysis project provides insights about the music performance focusing on the top artists,albums,and songs that contributed to the multiple streams that occurred during 2018 and 2019. These insights can be used to make recommendations towards marketing strategies that can be implemented to further on increase the number of streamers on their platform.
 The data was a spotify songs excel workbook file. It included information about different songs, with the artists from each song starting from 1905. 
 I focused on displaying visualisations for 2018 and 2019(which I filtered) with the following visuals:
@@ -30,8 +29,11 @@ STEPS FOLLOWED
 
 
   4. Merged queries to create a new id column for the track_album_name.
-     I firstly created a table called Albums.Secondly;copied the track_album_name column.Thirdly;clicked on add column and then clicked on index column starting from 1.Furthermore;clicked on merge query to merge the spotify_songs and Albums table based off the track_album_name column as it is a common column in both tables.
-     Lastly;in the spotify_songs table I expanded the Albums column and only selected the track_album_name_new_id column to be displayed.
+     I firstly created a table called Albums.Secondly;copied the track_album_name column.Thirdly;clicked on add 
+     column and then clicked on index column starting from 1.Furthermore;clicked on merge query to merge the 
+     spotify_songs and Albums table based off the track_album_name column as it is a common column in both tables.
+     Lastly;in the spotify_songs table I expanded the Albums column and only selected the track_album_name_new_id 
+     column to be displayed.
 
 
      Snapshot:
@@ -42,7 +44,6 @@ STEPS FOLLOWED
 
 
 VISUAL 1: Total Albums Per Genre
-
 
 
 This visual provides information about the the total albums released in 2018 and 2019 based off the following genres represented in the diagram. 
@@ -65,8 +66,9 @@ Snapshot of Total Albums Measure created:
 Lastly I included a slicer that provides information about the different genres,which will enable a user to view the total albums released for a particular genre they are interested in.
 
 
-VISUAL 2: Top 5 Played Artists Analysis
+Overall,this visual provides Spotify with information that will help them to understand the number of albums released in 2018 and 2019 based off each genre to get a better uderstanding of the market.
 
+VISUAL 2: Top 5 Played Artists Analysis
 
 
 This visual provides information about the top 5 artists that were the most played based off the following genres.
@@ -81,10 +83,12 @@ Snapshot Of Filter:
 
 ![Screenshot (11)](https://github.com/khelz424/Spotify-Project/assets/141655852/47e11727-3e03-4acc-9af1-186f3c36434e)
 
-This can help users to identify which artists based off the different genres were listened to the most. Hence understanding the users' tastes and which musicians contribute to the streaming success of Spotify.
+Lastly,  I included a slicer which will allow a user to pick the genre that they are the most interested in.
+
+
+Overall,this visual can help users to identify which artists based off the different genres were listened to the most. Hence understanding the users' tastes and which musicians contribute to the streaming success of Spotify.
 
 VISUAL 3: Top 5 Songs Analysis(Overall)
-
 
 
 This visual provides information about the top 5 songs listened to based off the top 3 artists regardless of genre.
@@ -98,11 +102,14 @@ Snapshot Of Filter:
 
 ![Screenshot (10)](https://github.com/khelz424/Spotify-Project/assets/141655852/eac9ec27-9513-4ed7-9bed-47f0baf24d89)
 
+I included a slicer which showcases the year. It will allow a user to visualise the top 5 songs between 2018 and 2019.
+
+
+Overall, Spotify can see which specific songs were the most popular during those years. It will also enable them to understand what songs customers prefer listening to.
 
 
 
 VISUAL 4: Top 5 Albums Analysis(Overall)
-
 
 
 This visual provides information about the top 5 albums listened to based off the top 5 artists and their popularity.
@@ -117,4 +124,8 @@ Snapshot Of Filter:
 ![Screenshot (17)](https://github.com/khelz424/Spotify-Project/assets/141655852/78cad3e8-7ae3-44b7-83f2-cbaa28f58014)
 
 
+I included a slicer which showcases the year. It will allow a user to visualise the top 5 albums based off the top 5 artists between 2018 and 2019. Based off what they are interested in.
+
+
+Overall, this visual will provide information about the top 5 artists and their respective albums that had the most popularity as well as the total sum of the popularity.
 
