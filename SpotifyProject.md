@@ -19,7 +19,14 @@ Top 5 Albums(Overall) with their respective artists.
 STEPS FOLLOWED
 1. Loaded the data into PowerBI.
 2. I did not have to do any data cleaning as they were no errors,formatting issues,duplicates,nulls, or empty rows.
-3. Created a Calculated column for the date. Firslty; I created a new table called Calendar,copied the date column and pasted it in the Calendar table, and then I created a calculated column to showcase the dates from the first day of the month to the last day of the month because the dates were not in order.
+3. Created a new Date Column:
+   
+ 3.1. I created a new table called Calendar
+ 
+ 3.2. Copied the date column from the spotify_songs table and pasted it in the Calendar table
+ 
+ 3.3. Then I created a calculated column to showcase the dates from the first day of the month to the last day of 
+   the month because the dates were not in order.
    
    Snapshot of Calculated Column:
 
