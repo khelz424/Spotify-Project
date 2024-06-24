@@ -52,7 +52,9 @@ STEPS FOLLOWED
 
      Snapshot:
 
-     ![Screenshot (2)](https://github.com/khelz424/Spotify-Project/assets/141655852/57258754-ee5a-41be-bb28-24ef1229b228)
+
+![Screenshot (24)](https://github.com/khelz424/Spotify-Project/assets/141655852/03220659-d0d9-4bb5-a8ad-eba57c7e53ad)
+
 
 
 
