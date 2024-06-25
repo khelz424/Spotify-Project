@@ -152,3 +152,7 @@ I included a slicer which showcases the year. It will allow a user to visualise 
 
 Overall, this visual will provide information about the top 5 artists and their respective albums that had the most popularity as well as the total sum of the popularity.
 
+
+CONCLUSION
+
+In conclusion, through the use of PowerBI, this project has explored the data to facilitate in the creation of visuals which will be used by the users to extract insights to facilitate in making informative decisions about their approach to maximise their future performance in the music industry.
