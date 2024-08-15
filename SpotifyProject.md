@@ -8,6 +8,8 @@ This data analysis project provides insights about the music performance focusin
 The data was a spotify songs excel workbook file. It included information about different songs, with the artists from each song starting from 1905. 
 I focused on displaying visualisations for 2018 and 2019(which I filtered) with the following visuals:
 
+Summary Report
+
 Total Albums Released
 
 Top 5 Played Artists
@@ -63,16 +65,26 @@ STEPS FOLLOWED
 ![Screenshot (24)](https://github.com/khelz424/Spotify-Project/assets/141655852/03220659-d0d9-4bb5-a8ad-eba57c7e53ad)
 
 
+VISUAL 1: Summary Report
+
+This visual provides an overview about the top 5 played artists,total albums released, and the top 5 albums.
+
+
+![Screenshot (41)](https://github.com/user-attachments/assets/127c331f-dbf6-43c0-9ee8-181c69178565)
 
 
 
-VISUAL 1: Total Albums Per Genre
+
+The visuals beyond this point are reports that provide further information if a user is interested in a specific visuals.
+
+VISUAL 2: Total Albums Per Genre
 
 
 This visual provides information about the the total albums released in 2018 and 2019 based off the following genres represented in the diagram. 
 
+![Screenshot (42)](https://github.com/user-attachments/assets/55a6b1cf-fbd6-4d5a-8323-705fc449b18a)
 
-![Screenshot (3)](https://github.com/khelz424/Spotify-Project/assets/141655852/a591b258-07b9-466b-a227-fc6d27ee22c0)
+
 
 
 
@@ -91,12 +103,13 @@ Lastly I included a slicer that provides information about the different genres,
 
 Overall,this visual provides Spotify with information that will help them to understand the number of albums released in 2018 and 2019 based off each genre to get a better uderstanding of the market.
 
-VISUAL 2: Top 5 Played Artists Analysis
+VISUAL 3: Top 5 Played Artists Analysis
 
 
 This visual provides information about the top 5 artists that were the most played based off the following genres.
 
-![Screenshot (7)](https://github.com/khelz424/Spotify-Project/assets/141655852/8a52e04c-be89-4f4c-ab94-97edee7b3d86)
+![Screenshot (44)](https://github.com/user-attachments/assets/a5ab2de8-e49a-492b-a0fa-ef079cff9de4)
+
 
 The visual is displayed as a clustered column chart with the Y-axis being the popularity figures and the X-axis being the year. 
 In order to have the top 5 artists displayed on the visual I created a filter for the Artist column which shows the top 5 artists based off the sum of the track popularity. 
@@ -111,33 +124,13 @@ Lastly,  I included a slicer which will allow a user to pick the genre that they
 
 Overall,this visual can help users to identify which artists based off the different genres were listened to the most. Hence understanding the users' tastes and which musicians contribute to the streaming success of Spotify.
 
-VISUAL 3: Top 5 Songs Analysis(Overall)
-
-
-This visual provides information about the top 5 songs listened to based off the top 3 artists regardless of genre.
-
-![Screenshot (9)](https://github.com/khelz424/Spotify-Project/assets/141655852/cfa81f25-3c95-4858-aa78-7d3436de4795)
-
-The visuals are represented using a multi-row card as it will display the name of the artist and their top 5 songs.
-I filtered each card by the Artist and the Track name by the top 5 songs based off the sum of the track popularity. 
-
-Snapshot Of Filter:
-
-![Screenshot (10)](https://github.com/khelz424/Spotify-Project/assets/141655852/eac9ec27-9513-4ed7-9bed-47f0baf24d89)
-
-I included a slicer which showcases the year. It will allow a user to visualise the top 5 songs between 2018 and 2019.
-
-
-Overall, Spotify can see which specific songs were the most popular during those years. It will also enable them to understand what songs customers prefer listening to.
-
-
-
-VISUAL 4: Top 5 Albums Analysis(Overall)
+VISUAL 5: Top 5 Albums Analysis(Overall)
 
 
 This visual provides information about the top 5 albums listened to based off the top 5 artists and their popularity.
 
-![Screenshot (12)](https://github.com/khelz424/Spotify-Project/assets/141655852/41983a63-1253-47fe-a48c-35ce0d1617de)
+![Screenshot (43)](https://github.com/user-attachments/assets/52838dff-cad1-4141-8948-99bdcecb9e12)
+
 
 I filtered the visual based off popularity, track_artist, and lastly by the Album. The Album was filtered by the top 5 albums by popularity.
 
