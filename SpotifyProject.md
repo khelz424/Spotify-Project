@@ -4,7 +4,7 @@ Spotify Project
 PROJECT OVERVIEW
 
 
-This data analysis project provides insights about the music performance focusing on the top artists,albums,and songs that contributed to the multiple streams that occurred during 2018 and 2019. These insights can be used to make recommendations towards marketing strategies that can be implemented to further on increase the number of streamers on their platform.
+This data analysis project provides insights about the music performance focusing on the top artists, and albums that contributed to the multiple streams that occurred during 2018 and 2019. These insights can be used to make recommendations towards marketing strategies that can be implemented to further on increase the number of streamers on their platform.
 The data was a spotify songs excel workbook file. It included information about different songs, with the artists from each song starting from 1905. 
 I focused on displaying visualisations for 2018 and 2019(which I filtered) with the following visuals:
 
@@ -109,7 +109,7 @@ This visual provides information about the top 5 artists that were the most play
 ![Screenshot (44)](https://github.com/user-attachments/assets/a5ab2de8-e49a-492b-a0fa-ef079cff9de4)
 
 
-The visual is displayed as a clustered column chart with the Y-axis being the popularity figures and the X-axis being the year. 
+The visual is displayed as a stacked bar chart with the Y-axis being the Year and the X-axis being the Popularity. 
 In order to have the top 5 artists displayed on the visual I created a filter for the Artist column which shows the top 5 artists based off the sum of the track popularity. 
 
 Snapshot Of Filter:
@@ -120,15 +120,14 @@ Snapshot Of Filter:
 Lastly,  I included a slicer which will allow a user to pick the genre that they are the most interested in.
 
 
-Overall,this visual can help users to identify which artists based off the different genres were listened to the most. Hence understanding the users' tastes and which musicians contribute to the streaming success of Spotify.
+Overall,this visual can help users to identify which artists based off the different genres were listened to the most,as it is represented in a clear manner through the percentages shown and the different colours representing the different artists. Hence understanding the users' tastes and which musicians contribute to the streaming success of Spotify.
 
 VISUAL 5: Top 5 Albums Analysis(Overall)
 
 
-This visual provides information about the top 5 albums listened to based off the top 5 artists and their popularity.
+This visual is displayed as a stacked column chart and provides information about the top 5 albums listened to based off the top 5 artists and their popularity.
 
 ![Screenshot (43)](https://github.com/user-attachments/assets/52838dff-cad1-4141-8948-99bdcecb9e12)
-
 
 I filtered the visual based off popularity, track_artist, and lastly by the Album. The Album was filtered by the top 5 albums by popularity.
 
