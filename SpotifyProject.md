@@ -14,8 +14,6 @@ Total Albums Released
 
 Top 5 Played Artists
 
-Top 5 Songs(Overall) 
-
 Top 5 Albums(Overall) with their respective artists. 
 
 STEPS FOLLOWED
