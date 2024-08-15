@@ -4,4 +4,4 @@ This Project provides information about the performance of the music industry du
 
 
 
-You can click on the SpotifyProjetc.md file above to view the reports created.
+You can click on the SpotifyProject.md file above to view the reports created.
